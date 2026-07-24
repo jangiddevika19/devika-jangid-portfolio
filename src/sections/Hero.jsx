@@ -71,10 +71,14 @@ function Hero() {
           </div>
 
 
+          {/* Social Links */}
+
           <div className="flex gap-6 text-3xl">
 
             <a
-              href="#"
+              href="https://github.com/jangiddevika19"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-slate-300 hover:text-cyan-400 transition"
             >
               <FaGithub />
@@ -82,7 +86,9 @@ function Hero() {
 
 
             <a
-              href="#"
+              href="https://www.linkedin.com/in/devika-jangid-4b5796310/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-slate-300 hover:text-cyan-400 transition"
             >
               <FaLinkedin />
@@ -95,7 +101,6 @@ function Hero() {
 
 
         {/* Right Code Card */}
-
 
         <div className="bg-slate-900 border border-slate-800 rounded-2xl shadow-xl overflow-hidden">
 
