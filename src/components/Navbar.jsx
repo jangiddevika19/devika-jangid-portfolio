@@ -8,6 +8,7 @@ function Navbar() {
   const menuItems = [
     { name: "Home", link: "#home" },
     { name: "About", link: "#about" },
+    { name: "Experience", link: "#experience" },
     { name: "Skills", link: "#skills" },
     { name: "Projects", link: "#projects" },
     { name: "Contact", link: "#contact" },
@@ -24,8 +25,8 @@ function Navbar() {
 
         <a
           href="#home"
-          className="flex items-center gap-3"
           onClick={() => setIsOpen(false)}
+          className="flex items-center gap-3"
         >
 
           <img
@@ -34,12 +35,12 @@ function Navbar() {
             className="w-11 h-11 rounded-full object-cover border-2 border-cyan-400"
           />
 
-
           <span className="text-2xl font-bold text-cyan-400 tracking-wide">
             Devika Jangid
           </span>
 
         </a>
+
 
 
 

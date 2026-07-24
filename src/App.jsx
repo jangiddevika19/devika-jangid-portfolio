@@ -5,18 +5,25 @@ import Skills from "./sections/Skills";
 import Projects from "./sections/Projects";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
+import Experience from "./sections/Experience";
 
 
 function App() {
   return (
     <div className="bg-slate-950">
       <Navbar />
-      <Hero />
-      <About />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
+
+<Hero />
+
+<About />
+
+<Experience />
+
+<Skills />
+
+<Projects />
+
+<Contact />
     </div>
   );
 }
