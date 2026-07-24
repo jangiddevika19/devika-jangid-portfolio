@@ -41,14 +41,14 @@ const projects = [
   github: "",
   demo: "https://sparkly-pasca-80abfd.netlify.app",
 },
-  {
-    title: "Hotel Management System",
-    description:
-      "A SQL database project designed to manage hotel rooms, customers, bookings and billing records with structured database design.",
-    tech: ["MySQL", "SQL", "Database Design", "ER Diagram"],
-    github: "",
-    demo: "",
-  },
+ {
+  title: "Job Portal Database System",
+  description:
+    "A SQL database project designed to manage job seekers, recruiters, job postings and applications with proper database relationships and optimized queries.",
+  tech: ["MySQL", "SQL", "Database Design", "ER Diagram", "Queries"],
+  github: "",
+  demo: "",
+},
 
   {
     title: "Airline Reservation System",
