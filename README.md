@@ -1,16 +1,153 @@
-# React + Vite
+# 💻 Devika Jangid - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio! 🚀
 
-Currently, two official plugins are available:
+This portfolio showcases my skills, experience, certifications, and projects as a **Java Full Stack Developer**.  
+Built with modern frontend technologies and designed with a clean, responsive, and professional UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👩‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hi, I'm **Devika Jangid** 👋
 
-## Expanding the ESLint configuration
+I am a **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I work with modern technologies like **Java, Spring Boot, React.js, MySQL and REST APIs** to develop full-stack applications.
+
+I enjoy learning new technologies, solving problems, and creating real-world projects.
+
+---
+
+## 🌐 Live Portfolio
+
+🔗 https://devikajangid-portfolio.vercel.app/
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive Design
+
+## Backend
+
+- Java
+- Spring Boot
+- REST APIs
+- JSP & Servlets
+- JDBC
+- Hibernate
+
+## Database
+
+- MySQL
+- SQL
+- Database Design
+- ER Diagrams
+
+## Tools & Platforms
+
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Vercel
+
+---
+
+# 📂 Portfolio Sections
+
+The portfolio includes:
+
+### 🏠 Hero Section
+- Professional introduction
+- Developer profile
+- Quick navigation
+
+### 👩‍💻 About Section
+- Skills
+- Developer journey
+- Career goals
+
+### ⚡ Tech Stack
+- Frontend technologies
+- Backend technologies
+- Database skills
+
+### 💼 Experience & Certifications
+- Internship experience
+- Technical certifications
+- Learning achievements
+
+### 🚀 Projects
+
+Projects are categorized into:
+
+## Frontend Applications
+
+- Coffee Shop Website
+- Restaurant Website
+- Bakery Website
+- Travel Website
+- Diamond Shopping Website
+
+## Java & Full Stack Applications
+
+- Hospital Management System
+- Online Shopping Application
+- Employee Management System
+
+## Database Projects
+
+- Airline Reservation System
+- Job Portal Database System
+
+---
+
+# ⭐ Featured Projects
+
+## 🏥 Hospital Management System
+
+A full-stack healthcare management application built using:
+
+- React.js
+- Java
+- Spring Boot
+- Spring Security
+- MySQL
+- JWT Authentication
+
+Features:
+- Patient management
+- Doctor management
+- Appointment handling
+- Medical records management
+
+---
+
+## 🛒 Online Shopping Application
+
+A Java-based e-commerce application developed using:
+
+- Java
+- JSP
+- Servlet
+- JDBC
+- MySQL
+
+Features:
+- User authentication
+- Product management
+- Shopping cart
+- Order processing
+
+---
+
+
