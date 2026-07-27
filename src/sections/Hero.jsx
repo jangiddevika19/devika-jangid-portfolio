@@ -213,7 +213,7 @@ function Hero() {
 
 
             <a
-              href="/Resume/resume.pdf"
+              href="/Resume/Devika_Resume.pdf"
               download
               className="border border-slate-700 px-6 py-3 rounded-xl text-sm sm:text-base font-semibold text-center transition-all duration-300 hover:border-cyan-400 hover:text-cyan-400 hover:-translate-y-0.5"
             >
