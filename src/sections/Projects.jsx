@@ -293,7 +293,7 @@ function Projects() {
           <SectionHeading
             icon={FaLaptopCode}
             title="Frontend Development Projects"
-            subtitle="Modern frontend applications built using React.js, JavaScript and Tailwind CSS with responsive UI development using HTML and CSS."
+            subtitle="Modern web applications and responsive websites built using React.js, JavaScript, HTML, CSS and Tailwind CSS with a focus on clean UI and user experience."
           />
 
           {renderCards(frontendProjects)}

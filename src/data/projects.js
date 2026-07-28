@@ -97,68 +97,71 @@ const projects = [
 
 
   {
-    title: "Hospital Management System",
+  title: "Hospital Management System",
 
-    description:
-      "A full-stack hospital management application developed to automate healthcare operations. It manages patients, doctors, appointments and medical records with secure authentication, REST APIs and a modern responsive user interface.",
+  description:
+    "A full-stack hospital management application developed using React.js and Spring Boot. The system provides secure authentication with JWT and Spring Security, REST API integration, and database management using Hibernate and MySQL for handling patients, doctors, appointments and medical records.",
 
-    tech: [
-      "React.js",
-      "Java",
-      "Spring Boot",
-      "Spring Security",
-      "Hibernate",
-      "MySQL",
-      "JWT"
-    ],
+  tech: [
+    "React.js",
+    "Java",
+    "Spring Boot",
+    "Spring Security",
+    "JWT",
+    "Hibernate",
+    "MySQL",
+    "REST APIs"
+  ],
 
-    github:
-      "https://github.com/jangiddevika19/hms-fullstack-project",
+  github:
+    "https://github.com/jangiddevika19/hms-fullstack-project",
 
-    demo:
-      "https://hms-fullstack-project.vercel.app/",
-  },
+  demo:
+    "https://hms-fullstack-project.vercel.app/",
+},
 
+{
+  title: "Online Shopping Application",
 
-  {
-    title: "Online Shopping Application",
+  description:
+    "A Java-based e-commerce web application developed using JSP, Servlets, JDBC and MySQL. The application manages products, users and shopping workflows with database connectivity, user authentication, shopping cart functionality and order management.",
 
-    description:
-      "A full-stack e-commerce application developed using Java, JSP, Servlets, JDBC and MySQL with user authentication, shopping cart, product management and order processing.",
+  tech: [
+    "Java",
+    "JSP",
+    "Servlet",
+    "JDBC",
+    "MySQL",
+    "HTML",
+    "CSS",
+    "MVC Architecture"
+  ],
 
-    tech: [
-      "Java",
-      "JSP",
-      "Servlet",
-      "JDBC",
-      "MySQL"
-    ],
+  github:
+    "https://github.com/jangiddevika19/Ecommerce-JSP-Project",
 
-    github:
-      "https://github.com/jangiddevika19/Ecommerce-JSP-Project",
+  demo: "",
+},
+{
+  title: "Employee Management System",
 
-    demo: "",
-  },
+  description:
+    "A Core Java based employee management application developed to manage employee records efficiently. The project implements CRUD operations, object-oriented programming principles, collections, exception handling and database operations using Java concepts.",
 
+  tech: [
+    "Core Java",
+    "OOPs",
+    "Collections",
+    "Exception Handling",
+    "JDBC",
+    "MySQL"
+  ],
 
-  {
-    title: "Employee Management System",
+  github:
+    "https://github.com/jangiddevika19/EmployeeManagementSystem",
 
-    description:
-      "A Core Java application implementing CRUD operations, employee records management, salary handling and object-oriented programming concepts.",
-
-    tech: [
-      "Java",
-      "Core Java",
-      "OOPs",
-      "Collections"
-    ],
-
-    github:
-      "https://github.com/jangiddevika19/EmployeeManagementSystem",
-
-    demo: "",
-  },
+  demo: "",
+},
 
 
 
@@ -175,6 +178,7 @@ const projects = [
       "MySQL",
       "SQL",
       "Database Design",
+      "Queries",
       "ER Diagram"
     ],
 
