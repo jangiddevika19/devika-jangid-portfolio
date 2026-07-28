@@ -1,12 +1,45 @@
 const projects = [
 
+
+  // ================= FEATURED PROJECTS =================
+
+{
+  title: "Devika OS – Desktop Portfolio",
+
+  description:
+    "A modern desktop operating system-inspired portfolio built with React.js featuring a realistic desktop interface, draggable windows, taskbar, start menu, desktop icons and smooth animations. It showcases my skills, projects, experience, certifications and resume through an interactive user experience.",
+
+  tech: [
+    "React.js",
+    "JavaScript",
+    "Framer Motion",
+    "Vite",
+    "HTML",
+    "CSS"
+  ],
+
+  // github:
+  //   "https://github.com/jangiddevika19/devika-desktop-portfolio",
+
+  demo:
+    "https://devika-desktop-portfolio.vercel.app/",
+},
+
+
   // ================= FRONTEND PROJECTS =================
 
   {
     title: "Coffee Shop Website",
     description:
-      "A modern coffee shop website featuring a premium landing page, coffee menu, services, customer testimonials and a fully responsive user interface.",
-    tech: ["HTML", "CSS", "JavaScript", "Responsive Design"],
+      "A premium coffee shop website with a modern landing page, interactive menu, featured beverages, customer testimonials, contact section and a fully responsive user interface designed for an engaging user experience.",
+  tech: [
+  "React.js",
+  "HTML5",
+  "CSS3",
+  "JavaScript",
+  "Responsive Design",
+  "Animations"
+],
     github: "",
     demo: "https://ember-coffee-delta.vercel.app/",
   },
@@ -15,8 +48,15 @@ const projects = [
   {
     title: "Restaurant Website",
     description:
-      "A responsive restaurant website showcasing delicious menu items, chef specials, online reservation section and an elegant modern design.",
-    tech: ["HTML", "CSS", "JavaScript", "Responsive Design"],
+      "A modern restaurant website featuring signature dishes, chef specials, online reservation, customer reviews, gallery section and a responsive interface optimized for all devices.",
+    tech: [
+  "React.js",
+  "HTML5",
+  "CSS3",
+  "JavaScript",
+  "Responsive Design",
+  "Modern UI"
+],
     github: "",
     demo: "https://aurelia-restaurant-psi.vercel.app/",
   },

@@ -12,6 +12,7 @@ import projects from "../data/projects";
 function Projects() {
 
   const frontendTitles = [
+    "Devika OS – Desktop Portfolio",
     "Coffee Shop Website",
     "Restaurant Website",
     "Bakery Website",
@@ -291,7 +292,7 @@ function Projects() {
 
           <SectionHeading
             icon={FaLaptopCode}
-            title="Frontend Applications"
+            title="Frontend Development Projects"
             subtitle="Modern frontend applications built using React.js, JavaScript and Tailwind CSS with responsive UI development using HTML and CSS."
           />
 
@@ -306,7 +307,7 @@ function Projects() {
 
           <SectionHeading
             icon={FaJava}
-            title="Java Applications"
+            title="Java Full Stack Applications"
             subtitle="Java and full-stack applications built using Core Java, Spring Boot, REST APIs, JSP, Servlets, JDBC, React and MySQL."
           />
 
